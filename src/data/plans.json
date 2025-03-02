@@ -1,0 +1,57 @@
+{
+  "plans": [
+    {
+      "id": "basic",
+      "plan_name": "Basic",
+      "price": 349.00,
+      "contract_duration": "1 month",
+      "description": "Pour les petites agences de location",
+      "storage": "500 MO",
+      "feature_list": [
+        "Accès complet à la gestion des contrats",
+        "Support client 24/7",
+        "Personnalisation des contrats",
+        "Téléchargement des documents",
+        "Nombre de contrats : Illimité"
+      ]
+    },
+    {
+      "id": "standard",
+      "plan_name": "Standard",
+      "price": 1999.00,
+      "contract_duration": "6 months",
+      "description": "Pour les agences en pleine croissance",
+      "storage": "5 GO",
+      "feature_list": [
+        "Accès complet à la gestion des contrats",
+        "Support client prioritaire 24/7",
+        "Personnalisation avancée des contrats",
+        "Téléchargement des documents",
+        "Nombre de contrats : Illimité",
+        "Tableau de bord analytique",
+        "Suivi des paiements"
+      ]
+    },
+    {
+      "id": "premium",
+      "plan_name": "Premium",
+      "price": 2999.00,
+      "contract_duration": "12 months",
+      "description": "Pour les grandes agences professionnelles",
+      "storage": "Illimité",
+      "feature_list": [
+        "Accès complet à la gestion des contrats",
+        "Support client VIP 24/7",
+        "Personnalisation complète des contrats",
+        "Téléchargement des documents",
+        "Nombre de contrats : Illimité",
+        "Tableau de bord analytique avancé",
+        "API disponible",
+        "Contrôle Technique",
+        "Suivi : Vignette, Assurance, Visite Technique",
+        "Export des données",
+        "Multi-utilisateurs"
+      ]
+    }
+  ]
+} 
