@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "title": "Bienvenue sur Contrati.ma",
+    "subtitle": "Générez facilement vos contrats de location de voiture en toute sérénité.",
+    "cta": "Commencez Maintenant"
+  },
+  "features": {
+    "title": "Fonctionnalités Avancées pour la Gestion de Contrats de Location",
+    "items": [
+      {
+        "icon": "FileText",
+        "title": "Interface Intuitive",
+        "description": "Le contrat est facilement généré par un parcours simple avec des actions fluides."
+      },
+      {
+        "icon": "Clock",
+        "title": "Suivi en Temps Réel",
+        "description": "Gardez un œil sur vos contrats de location actifs et leur statut."
+      },
+      {
+        "icon": "FileText",
+        "title": "Gestion de Documents",
+        "description": "Téléchargez et stockez facilement les copies électroniques de vos documents."
+      },
+      {
+        "icon": "Shield",
+        "title": "Signature Électronique",
+        "description": "Facilitez la signature de vos contrats avec une signature numérique sécurisée."
+      }
+    ]
+  },
+  "stats": [
+    { "number": "98%", "text": "de satisfaction clients" },
+    { "number": "150+", "text": "contrats générés chaque mois" },
+    { "number": "100+", "text": "agences partenaires à travers le Maroc" },
+    { "number": "24/7", "text": "support client disponible" }
+  ],
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Notre équipe est là pour vous aider et répondre à toutes vos questions",
+    "info": {
+      "phones": [
+        "+212 664-427513",
+        "+212 664-427514",
+        "+212 664-427515"
+      ],
+      "email": "contact@contrati.ma",
+      "address": "Agadir, Maroc",
+      "hours": {
+        "weekdays": "Lundi - Vendredi: 9h00 - 18h00",
+        "weekend": "Samedi: 9h00 - 14h00"
+      }
+    }
+  }
+} 
